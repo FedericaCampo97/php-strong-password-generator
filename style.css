@@ -25,3 +25,13 @@ p {
 .block_options {
     border-radius: 6px;
 }
+
+.button_invia {
+    padding: 7px 12px;
+    margin-top: 20px;
+    border: none;
+    background-color: rgb(21, 93, 216);
+    border-radius: 7px;
+    color: white;
+
+}

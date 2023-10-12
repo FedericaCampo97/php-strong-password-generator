@@ -36,7 +36,7 @@ include 'functions.php'
                     <input type="number" name="passwordLength" min=0 max=40 class="form-control" aria-describedby="passwordHelpInline">
                 </div>
             </div>
-            <button type="submit"> Invia </button>
+            <button type="submit" class="button_invia"> Invia </button>
             <br>
 
         </form>
